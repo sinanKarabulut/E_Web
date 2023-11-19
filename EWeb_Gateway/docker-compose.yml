@@ -1,0 +1,15 @@
+﻿version: "1.0"
+#networks:
+#  skbt:
+#    external: true
+services:
+  ewebgateway:
+    image: e_web_gateway
+    container_name: e_web_gateway
+#    networks: 
+#      - skbt
+    build:
+      context: ../
+      dockerfile: Dockerfile
+    ports:
+      - "6000:80"

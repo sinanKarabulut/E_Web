@@ -1,0 +1,12 @@
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/bin/Debug/net7.0/JwtAuthenticationManager.deps.json
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/bin/Debug/net7.0/JwtAuthenticationManager.dll
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/bin/Debug/net7.0/JwtAuthenticationManager.pdb
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.csproj.AssemblyReference.cache
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.AssemblyInfoInputs.cache
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.AssemblyInfo.cs
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.dll
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/refint/JwtAuthenticationManager.dll
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/JwtAuthenticationManager.pdb
+/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/obj/Debug/net7.0/ref/JwtAuthenticationManager.dll

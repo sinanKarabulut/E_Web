@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "69kgasts4BpKeNrgDwmwQtpitEFyucDPvMIXvhoNtAF2c0tkTw5e2l7vxaDpspe6bsBIPqmb1Yytua9I5Ss9Cw==",
+  "success": true,
+  "projectFilePath": "/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/JwtAuthenticationManager/JwtAuthenticationManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/sinankarabulut/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.3/microsoft.aspnetcore.authentication.jwtbearer.7.0.3.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.abstractions/7.0.3/microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.0.3/microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.logging/7.0.3/microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.protocols/6.15.1/microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.15.1/microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/microsoft.identitymodel.tokens/7.0.3/microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "/Users/sinankarabulut/.nuget/packages/system.identitymodel.tokens.jwt/7.0.3/system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

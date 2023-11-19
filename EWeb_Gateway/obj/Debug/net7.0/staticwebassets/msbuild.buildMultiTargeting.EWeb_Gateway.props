@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EWeb_Gateway.props" />
+</Project>

@@ -1,0 +1,8 @@
+﻿services:
+  authenticationwebapi:
+    image: authenticationwebapi
+    build:
+      context: /Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb
+      dockerfile: Dockerfile
+    ports:
+      - "9000:80"

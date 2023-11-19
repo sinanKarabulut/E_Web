@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y6GUg+IPrteVLAZCN1qPGrq8iFBan8LLj/CQ4kEwMJU=",
+  "Source": "EWeb_Gateway",
+  "BasePath": "_content/EWeb_Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

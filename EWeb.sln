@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWebDataApi", "EWebDataApi\EWebDataApi.csproj", "{908D959D-7672-46A3-AAB8-2E69F37474BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWeb_Gateway", "EWeb_Gateway\EWeb_Gateway.csproj", "{0B46F9D7-FE57-4DFE-92DB-AEB21E41CFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationManager", "JwtAuthenticationManager\JwtAuthenticationManager.csproj", "{56F34CAE-4071-4593-BBAC-3C0733BF26F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationWebApi", "AuthenticationWebApi\AuthenticationWebApi.csproj", "{676AB08B-6944-43E1-86A4-46105B5BEF5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58C5685B-3007-4856-BA4F-F58B3F68AE43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908D959D-7672-46A3-AAB8-2E69F37474BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908D959D-7672-46A3-AAB8-2E69F37474BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908D959D-7672-46A3-AAB8-2E69F37474BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908D959D-7672-46A3-AAB8-2E69F37474BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B46F9D7-FE57-4DFE-92DB-AEB21E41CFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B46F9D7-FE57-4DFE-92DB-AEB21E41CFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B46F9D7-FE57-4DFE-92DB-AEB21E41CFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B46F9D7-FE57-4DFE-92DB-AEB21E41CFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F34CAE-4071-4593-BBAC-3C0733BF26F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F34CAE-4071-4593-BBAC-3C0733BF26F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F34CAE-4071-4593-BBAC-3C0733BF26F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F34CAE-4071-4593-BBAC-3C0733BF26F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676AB08B-6944-43E1-86A4-46105B5BEF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676AB08B-6944-43E1-86A4-46105B5BEF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676AB08B-6944-43E1-86A4-46105B5BEF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676AB08B-6944-43E1-86A4-46105B5BEF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

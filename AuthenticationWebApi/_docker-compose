@@ -1,0 +1,6 @@
+services:
+  authenticationwebapi:
+    image: authenticationwebapi
+    build:
+      context: ../
+      dockerfile: ./Dockerfile

@@ -1,0 +1,45 @@
+{
+  "Routes": [{
+      "DownstreamPathTemplate": "/api/Account/authenticate",
+      "DownstreamScheme": ["http"],
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 9000
+        }
+      ],
+      "UpstreamPathTemplate": "/account",
+      "UpstreamHttpMethod": ["POST"]
+    },
+    {
+      //Eri�ilecek Alt Adrese ait bilgiler
+      "DownstreamPathTemplate": "/api/kullanici/GetAll", //Gidilecek Adres
+      "DownstreamScheme": "http", //protokol http / https
+      "DangerousAcceptAnyServerCertificateValidator": true,
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost", //gidilecek server adresi / ipsi
+          "Port": 6500 // eri�im portu
+        },
+        {
+          "Host": "host.docker.internal", //gidilecek server adresi / ipsi
+          "Port": 6501 // eri�im portu
+        }
+      ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "UpstreamPathTemplate": "/kullanicilar", //talepde bulunulacak adres
+      "UpstreamHttpMethod": ["GET"], // Talep tipi 
+
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": true,
+        "Period": "1s",
+        "PeriodTimespan": 1,
+        "Limit": 1
+      }
+      
+    }
+  ]
+}

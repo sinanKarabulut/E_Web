@@ -1,0 +1,23 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  authenticationwebapi:
+    build:
+      context: "/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb"
+      dockerfile: "/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/AuthenticationWebApi/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net7.0/AuthenticationWebApi.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+      NUGET_PACKAGES: "/Users/sinankarabulut/.nuget/packages"
+      NUGET_FALLBACK_PACKAGES: "/Users/sinankarabulut/.nuget/packages"
+    image: "authenticationwebapi:dev"
+    ports: []
+    volumes:
+    - "/Users/sinankarabulut/.nuget/packages:/root/.nuget/fallbackpackages"
+    - "/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb/AuthenticationWebApi:/app:rw"
+    - "/Users/sinankarabulut/Desktop/code egitim/sinanCalisma/EWeb:/src:rw"
+    working_dir: "/app"
